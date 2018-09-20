@@ -1,0 +1,3 @@
+index:
+  path: /chaton
+  controller: App\Controller\ChatonController::print
